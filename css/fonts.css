@@ -1,0 +1,21 @@
+/* Fonts */
+@font-face {
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/ChangaOne-Regular.ttf') format('truetype');
+  font-family: 'ChangaOne';
+}
+@font-face {
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/ChangaOne-Italic.ttf') format('truetype');
+  font-family: 'ChangaOne';
+}
+
+/* Include the italic font if you need it */
+@font-face {
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/SourceSans3-VariableFont_wght.ttf') format('truetype');
+  font-family: 'SourceSans';
+}
